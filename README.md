@@ -19,7 +19,7 @@ Since then, I've explored multiple domains, including **psychology**, **biomedic
 *Working with Dr. Anahita Kazerooni on predictive modeling using radiomics and multi-omics data for survival prediction in oncology.*  
 Tools: PyTorch, DeepSHAP, KLPMVAE, LFSurv, lifelines
 
-### 🧪 Emotion & Psychopathology Lab (2021–2023)  
+### 🧪 ABUSA- REHAB Lab (2021–2023)  
 *Worked under Dr. Samantha Farris and Dr. Teresa Leyro on smoking behavior, HRV data, and stress response modeling.*  
 Tools: Biomedical data collection, HRV analysis
 
