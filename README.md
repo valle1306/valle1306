@@ -15,7 +15,7 @@ Since then, I've explored multiple domains, including **psychology**, **biomedic
 
 ## 🔬 Research & Quant Experience
 
-### 🧠 AUTOSurv | University of Pennsylvania (Current)  
+### 🧠 Center for Data Driven Discovery in Biomedicine at Children's Hospital of Philadelphia | University of Pennsylvania (Current)  
 *Working with Dr. Anahita Kazerooni on predictive modeling using radiomics and multi-omics data for survival prediction in oncology.*  
 Tools: PyTorch, DeepSHAP, KLPMVAE, LFSurv, lifelines
 
